@@ -1,5 +1,7 @@
 # Legendo muneris filia rugae trabibus insuperabile facit
 
+![Ruby on Rails logo](./Ruby_On_Rails_Logo.png)
+
 ## Opus sed
 
 Lorem markdownum frondibus te lapis instructa cernens vestigia tardos tantaque
