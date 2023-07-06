@@ -6,13 +6,7 @@ Lorem markdownum quam facies sua facientes solutum, est factis veteris Iuppiter.
 Laborum accipio viscera Duxerat ille que virum **terrigenae serpentis**
 abdiderat sed deterruit. Ille una.
 
-    transistor_reader_clone.osd(4);
-    donationwareTiger += virtualization;
-    dac += rom_chip / dslamHotSignature(2, half(3));
-    if (88 / click + mebibyte_search - 261442) {
-        paper += hertzOop * volume_utility;
-        encodingQueue = winsock - syntax;
-    }
+[codefile ./code_example.c]
 
 ## Luce nec sororem
 
@@ -41,18 +35,6 @@ Hauriret quam lumina deperderet et cornua dextrum an quod una illas mittuntque
 tantus idonea. Novo spem iramque, pensandum huic caesariem secedit! Conversa
 possit calidumque nemorum. Sibi lata silvas [superest](http://gemit.net/essequi)
 in annis *Herculis*, modo, ordine.
-
-    if (-2) {
-        artTerminalAnd(minisite_bank_post - imapDesign);
-    } else {
-        metafile_cisc_protocol.integrated_basic = so_raw + title_io_pmu +
-                encoding;
-        userApp *= keyboard.pinterest(fileSuffixCaptcha, raidCookie) +
-                optical_netiquette;
-    }
-    var art_ram = kilobit.wrapScannerMail(tape, 87);
-    quicktime_remote_data -= 16 + -5;
-    dvd += configuration;
 
 Est sic Oetaeus pia prudens **candida mihi dederat** quodque et *camini
 deficiunt scelus* in? Apertas superabat commota uterque, concava longe in quid,
