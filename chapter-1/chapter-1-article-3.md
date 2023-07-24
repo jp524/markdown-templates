@@ -1,4 +1,8 @@
-# Image Formats
+---
+title: "Image Formats"
+date: "2023-12-31"
+author: "The Author"
+---
 
 ![JPEG or JPG](./figures/norway.jpg)
 

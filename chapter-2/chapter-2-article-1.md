@@ -1,4 +1,8 @@
-# Non anser honore ornique
+---
+title: "Non anser honore ornique"
+date: "2023-12-31"
+author: "The Author"
+---
 
 [codefile ./code-files/code-example.c]
 
