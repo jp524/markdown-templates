@@ -1,6 +1,6 @@
 # Non anser honore ornique
 
-![Ruby on Rails logo](./figures//Ruby_On_Rails_Logo.png)
+![Ruby on Rails logo](./figures/Ruby_On_Rails_Logo.png)
 
 ## Amplectitur atque mutabile
 
