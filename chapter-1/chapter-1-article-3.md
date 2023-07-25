@@ -1,7 +1,8 @@
 ---
-title: "Image Formats"
-date: "2023-12-31"
-author: "The Author"
+title: Image Formats
+date: 2023-12-31
+author: The Author
+keywords: [one, two]
 ---
 
 ![JPEG or JPG](./figures/norway.jpg)

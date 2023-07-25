@@ -1,7 +1,8 @@
 ---
-title: "Non anser honore ornique"
-date: "2023-12-31"
-author: "The Author"
+title: Non anser honore ornique
+date: 2023-12-31
+author: The Author
+keywords: [one, two]
 ---
 
 ## Amplectitur atque mutabile
